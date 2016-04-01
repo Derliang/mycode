@@ -1,0 +1,5 @@
+#define LIST_INIT_SIZE 10
+#define LISTINCREAMENT 2
+struct SqList
+{
+    
