@@ -1,2 +1,6 @@
 # mycode
-practice
+
+##start test
+
+cd ./test
+./install.py
