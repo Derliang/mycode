@@ -4,3 +4,6 @@
 
 cd ./test
 ./install.py
+
+
+diu diudiu 
