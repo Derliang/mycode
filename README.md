@@ -6,4 +6,6 @@ cd ./test
 ./install.py
 
 
+duang duang
+
 diu diudiu 
