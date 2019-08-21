@@ -4,3 +4,5 @@
 
 cd ./test
 ./install.py
+
+duang duang
