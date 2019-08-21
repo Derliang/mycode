@@ -11,9 +11,9 @@
     diu diudiu
 
 ## git rebase
-    两个分支不同在16:07分以前是相同的现在master和liang分支分别进行编辑
+    两个分支在16:07分以前是相同的,现在master和liang分支分别进行编辑
 
-    master两次commit liang 两次commit
+    master两次commit liang 3次commit
 
     master change time at 16:07   
     master change time at 16:12 
@@ -30,7 +30,7 @@
 
     git checkout master
 
-    git pull 拉去最新master
+    git pull 最新master
 
     git checkout liang
 
@@ -38,9 +38,9 @@
 
     while(1)
 	    会提示冲突文件，修复冲突， git add 文件，git rebase --continue 继续下一步
-    break while(1）当你全部解决完成了
+    break when you solve all confict
 
-    git log 看一看提交记录
+    git log ##see commit logs
 
 ### step 2
 
